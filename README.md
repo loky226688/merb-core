@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
