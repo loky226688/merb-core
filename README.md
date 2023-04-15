@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
