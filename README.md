@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
