@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Add PR Summary step to Ultralytics Actions (#7675)
