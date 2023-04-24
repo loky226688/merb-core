@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Add plot_images conf_thresh parameter (#8446)
