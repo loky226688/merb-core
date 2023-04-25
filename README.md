@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
