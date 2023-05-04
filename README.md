@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Add Amazon Sagemaker Docs integrations page (#7293)
