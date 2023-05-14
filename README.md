@@ -1,1 +1,1 @@
-ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
+Replace onnx2tf usage from CLI to Python (#8429)
