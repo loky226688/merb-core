@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Update neural-magic.md (#7347)
