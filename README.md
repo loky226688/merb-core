@@ -1,1 +1,1 @@
-Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
+OpenVino 2024.0.0 (#8726)
