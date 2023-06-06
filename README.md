@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
