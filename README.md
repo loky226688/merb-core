@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Update Colab notebook for YOLOv8.1 (#8660)
