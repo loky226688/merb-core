@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Add bgr hyperparameter (#9139)
