@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
