@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
