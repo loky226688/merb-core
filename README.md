@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
