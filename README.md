@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
