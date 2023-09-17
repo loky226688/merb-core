@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Update the heatmap module code + docs (#7045)
