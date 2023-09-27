@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Update CITATION.cff with cffinit corrections (#8658)
