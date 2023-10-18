@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+YAML reformat (#7669)
