@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Add Amazon Sagemaker Docs integrations page (#7293)
