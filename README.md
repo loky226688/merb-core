@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+YOLOv8 INT8 TFLite Inference Example (#7317)
