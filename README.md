@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
