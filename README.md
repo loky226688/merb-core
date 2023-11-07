@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Update the heatmap module code + docs (#7045)
