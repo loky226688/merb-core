@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
