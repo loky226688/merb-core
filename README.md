@@ -1,1 +1,1 @@
-OBB Docs updates (#7512)
+Fix PNNX ubuntu -> linux bug (#7050)
