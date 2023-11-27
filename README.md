@@ -1,1 +1,1 @@
-Update Dockerfile for Raspberry Pi Support (#8123)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
