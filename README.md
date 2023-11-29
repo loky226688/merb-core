@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Clean up unused imgsz (#7771)
