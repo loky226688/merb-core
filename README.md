@@ -1,1 +1,1 @@
-fix non-coco val
+Compare plt.get_backend() in lowercase (#8409)
