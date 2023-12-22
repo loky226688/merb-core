@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Resize angle, count, and stage on keypoint number change (#7598)
