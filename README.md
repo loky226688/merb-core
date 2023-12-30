@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
