@@ -1,1 +1,1 @@
-Dockerfile-jetson pyproject.toml OpenCV fix (#7214)
+ultralytics 8.0.229 add model.embed() method (#7098)
