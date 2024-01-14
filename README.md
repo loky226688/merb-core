@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+Explorer with LanceDB, Actions and Docs updates (#7487)
