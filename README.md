@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Fix heatmaps width-height order bug (#7184)
