@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Clarify triton server boolean value (#8532)
