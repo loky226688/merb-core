@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Updated SQL Query Plot Code (#8120)
