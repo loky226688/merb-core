@@ -1,1 +1,1 @@
-example Google Colab
+Add quantization support to TensorFlow.js converter (#7008)
