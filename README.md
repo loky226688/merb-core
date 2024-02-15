@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Fix Yolo 8.0.206 scale bug (#7821)
