@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Elaborate Train and Predict mode docs arguments (#8137)
