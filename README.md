@@ -1,1 +1,1 @@
-Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
