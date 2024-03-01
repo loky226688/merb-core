@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+New test for labels and crops (#8861)
