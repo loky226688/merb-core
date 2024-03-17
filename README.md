@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Replace onnx2tf usage from CLI to Python (#8429)
