@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
