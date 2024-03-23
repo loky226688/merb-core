@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Update neural-magic.md (#7347)
