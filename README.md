@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Update Docs Home and Neural Magic pages (#7243)
