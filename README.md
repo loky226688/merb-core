@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+Update OpenVINO INT8 export (#7515)
