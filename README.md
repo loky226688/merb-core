@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
