@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
