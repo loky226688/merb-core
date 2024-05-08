@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Add YOLOv8 LibTorch C++ inference example (#7090)
