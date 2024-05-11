@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
