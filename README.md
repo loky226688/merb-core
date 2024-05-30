@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+ultralytics 8.0.229 add model.embed() method (#7098)
