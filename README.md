@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
