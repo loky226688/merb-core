@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
