@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
