@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Replace onnx2tf usage from CLI to Python (#8429)
