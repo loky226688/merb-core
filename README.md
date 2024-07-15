@@ -1,1 +1,1 @@
-fix resume training
+Update Roboflow segmentation Docs pages (#8094)
