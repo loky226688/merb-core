@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Auto-format by https://ultralytics.com/actions
