@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+New test for labels and crops (#8861)
