@@ -1,1 +1,1 @@
-Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
