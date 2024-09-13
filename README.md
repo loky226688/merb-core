@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Improve Coral Edge TPU guide (#8160)
