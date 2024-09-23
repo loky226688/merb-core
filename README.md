@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Clean up unused imgsz (#7771)
