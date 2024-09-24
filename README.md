@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Updating a typo on paddlepaddle.md (#9108)
