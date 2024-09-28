@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Mkdocs updates (#8008)
