@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
