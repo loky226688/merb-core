@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+* fix for predicting with batch_size > 1
