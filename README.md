@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Add HUB-SDK Docs reference section (#7781)
