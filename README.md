@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Rename model_id to model.id (#8447)
