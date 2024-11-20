@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
